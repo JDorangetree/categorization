@@ -1,0 +1,60 @@
+# Ignorar archivos de caché de Python
+*.pyc
+__pycache__/
+.pytest_cache/
+.mypy_cache/
+
+# Ignorar directorios de entornos virtuales
+# Nombres comunes para entornos virtuales
+venv/
+.venv/
+env/
+.env/
+ENV/
+env.bak/
+venv.bak/
+
+# Ignorar archivos de configuración que contienen secretos
+# Nombres de archivos específicos que hemos usado o son comunes
+.env              # Archivo común para variables de entorno locales
+.gemini_api_key.json # El archivo donde podrías guardar la clave de Gemini persistente
+
+# Ignorar directorios de distribución y build
+dist/
+build/
+*.egg-info/
+.eggs/
+
+# Ignorar archivos temporales y de sistema operativo
+*~              # Archivos de respaldo de editores (ej: Emacs)
+*.swp           # Archivos swap de Vim
+*.log           # Archivos de log
+*.tmp           # Archivos temporales
+.DS_Store       # Archivos de macOS
+Thumbs.db       # Archivos de Windows
+
+# Ignorar archivos de editores/IDE comunes
+.vscode/        # Archivos de configuración de VS Code
+.idea/          # Archivos de configuración de JetBrains IDEs (PyCharm, IntelliJ)
+*.sublime-project
+*.sublime-workspace
+
+# Ignorar archivos relacionados con Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Ignorar archivos de cobertura de código (si usas herramientas como coverage.py)
+.coverage
+htmlcov/
+
+# Ignorar archivos de bases de datos locales (ej: si usas SQLite)
+*.sqlite
+*.sqlite3
+db.sqlite3
+
+# Ignorar directorios de uploads o descargas (si tu app maneja archivos)
+# uploads/
+# downloads/
+
+# Ignorar archivos generados por Azure App Service o herramientas de despliegue (a veces)
+# Puede variar dependiendo de la configuracion
+# .azure/

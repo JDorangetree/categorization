@@ -1,0 +1,45 @@
+PartitionKey;RowKey;Segmento
+Segmentos;74000000;Acampada (cámping)
+Segmentos;64000000;Accesorios personales
+Segmentos;96000000;Activos monetarios
+Segmentos;10000000;Alimentación/cuidados de animales domésticos
+Segmentos;50000000;Alimentos/Bebidas
+Segmentos;84000000;Almacenamiento de herramientas/artículos de taller
+Segmentos;89000000;Animales vivos
+Segmentos;70000000;Arte/Artesanía/Costura
+Segmentos;81000000;Artículos de jardinería/césped
+Segmentos;62000000;Artículos de papelería/maquinaria de oficina/artículos para celebraciones
+Segmentos;73000000;Artículos domésticos de cocina
+Segmentos;51000000;Asistencia sanitaria
+Segmentos;68000000;Audiovisual/fotografía
+Segmentos;77000000;Automotriz
+Segmentos;53000000;Belleza/cuidado personal/higiene
+Segmentos;11000000;Bombas y sistemas para fluidos industriales
+Segmentos;63000000;Calzado
+Segmentos;65000000;Computación
+Segmentos;66000000;Comunicaciones
+Segmentos;92000000;Contenedores de almacenamiento/transporte
+Segmentos;94000000;Cultivos
+Segmentos;72000000;Electrodomésticos
+Segmentos;75000000;Equipamiento de hogar/mobiliario de oficina/de uso doméstico
+Segmentos;71000000;Equipamientos deportivos
+Segmentos;87000000;Fluidos/Combustibles/Gases
+Segmentos;79000000;Fontanería/calefacción/ventilación/aire acondicionado
+Segmentos;80000000;Herramientas/Equipamiento
+Segmentos;86000000;Juguetes/juegos
+Segmentos;88000000;Lubricantes
+Segmentos;60000000;Materiales de referencia/impresos/de texto
+Segmentos;98000000;Materias primas (no alimentarias)
+Segmentos;61000000;Música
+Segmentos;93000000;Plantas de horticultura
+Segmentos;67000000;Prendas de vestir
+Segmentos;83000000;Productos de construcción
+Segmentos;47000000;Productos de limpieza/higiene
+Segmentos;13000000;Productos para el control de plagas/plantas
+Segmentos;99000000;Productos Post-Mortem
+Segmentos;85000000;Protección/seguridad – Hágalo usted mismo
+Segmentos;91000000;Protección/seguridad/vigilancia
+Segmentos;58000000;Segmento cruzado
+Segmentos;95000000;Servicios
+Segmentos;78000000;Suministros eléctricos
+Segmentos;12000000;Tabaco/Cannabis
