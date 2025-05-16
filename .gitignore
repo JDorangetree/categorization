@@ -58,3 +58,4 @@ db.sqlite3
 # Ignorar archivos generados por Azure App Service o herramientas de despliegue (a veces)
 # Puede variar dependiendo de la configuracion
 # .azure/
+azure_table.py
