@@ -18,6 +18,7 @@ venv.bak/
 # Nombres de archivos específicos que hemos usado o son comunes
 .env              # Archivo común para variables de entorno locales
 .gemini_api_key.json # El archivo donde podrías guardar la clave de Gemini persistente
+.env.local      # Archivo de configuración local
 
 # Ignorar directorios de distribución y build
 dist/
